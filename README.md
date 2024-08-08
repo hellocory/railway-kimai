@@ -11,9 +11,8 @@ Click below to deploy to railway.
 2. When the deployment is finished, **generate a new domain** or **assign a custom domain** with the port "**8001**".
 3. Remove the admin email & password environment variables after build (they're no longer needed).
 
-### Known issues:
-- Email & Pass don't work: Make sure to setup SMTP correctly on your "MAILER_URL" environment config values. Refer to: https://www.kimai.org/documentation/emails.html for more info. You should then be able to recover your password with your email. If that doesn't work I have some fixin' I need to do.
-
+# Troubleshoot:
+TLDR: This is my first template with Railway so there may be more improvements to be made. Let me know if there is more that I can do to improve on this template if needed! I can add addon's later as well.
 <table>
 <tr>
 <th>ISSUE</th>
@@ -44,7 +43,7 @@ Emails don't work
 </td>
 </td>
 <td>
-Refer to [this source](https://www.kimai.org/documentation/emails.html) to see how the `MAILER_URL` & `MAIL_FROM` environment variables work.
+Refer to https://www.kimai.org/documentation/emails.html to see how the `MAILER_URL` & `MAIL_FROM` environment variables work.
 </td>
 </tr>
 </table>
