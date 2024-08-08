@@ -1,5 +1,5 @@
 # Kimai - Timetracking for Businesses and Freelancers
-Kimai is an Open Source time tracking application. This one-click-deployment will be all you need to use for Railway to set it up.
+[Kimai](https://www.kimai.org/) is an Open Source time tracking application. This one-click-deployment will be all you need to use for Railway to set it up.
 
 # One-click-setup
 Click below to deploy to railway.
