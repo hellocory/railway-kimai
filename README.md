@@ -12,4 +12,4 @@ Click below to deploy to railway.
 3. Remove the admin email & password environment variables after build (they're no longer needed).
 
 ### Known issues:
-- Email & Pass don't work: Make sure to setup SMTP correctly on your "MAILER_URL" environment config values. Refer to: https://www.kimai.org/documentation/emails.html for more info.
+- Email & Pass don't work: Make sure to setup SMTP correctly on your "MAILER_URL" environment config values. Refer to: https://www.kimai.org/documentation/emails.html for more info. You should then be able to recover your password with your email. If that doesn't work I have some fixin' I need to do.
