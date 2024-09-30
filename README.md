@@ -8,8 +8,7 @@ Click below to deploy to railway.
 
 # Railway Deployment Instructions
 1. Add your admin email & password.
-2. When the deployment is finished, **generate a new domain** or **assign a custom domain** with the port "**8001**".
-3. Remove the admin email & password environment variables after build (they're no longer needed).
+2. Remove the admin email & password environment variables after build (they're no longer needed).
 
 # Troubleshoot:
 TLDR: This is my first template with Railway so there may be more improvements to be made. Let me know if there is more that I can do to improve on this template if needed! I can add addon's later as well.
