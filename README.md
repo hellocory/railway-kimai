@@ -42,7 +42,7 @@ Emails don't work
 </td>
 </td>
 <td>
-Refer to https://www.kimai.org/documentation/emails.html to see how the `MAILER_URL` & `MAIL_FROM` environment variables work.
+Refer to https://www.kimai.org/documentation/emails.html to see how the `MAILER_URL` & `MAILER_FROM` environment variables work.
 </td>
 </tr>
 </table>
